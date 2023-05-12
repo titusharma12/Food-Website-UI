@@ -4,3 +4,4 @@
 ![image](https://github.com/titusharma12/Food-Website-UI/assets/82895851/df79410b-40f8-48ef-8360-b6f27ba92dcc)
 ![image](https://github.com/titusharma12/Food-Website-UI/assets/82895851/4fee4ff0-a710-4092-ad4f-dc958877489a)
 live demo https://titusharma12.github.io/Food-Website-UI/
+Not responsive
